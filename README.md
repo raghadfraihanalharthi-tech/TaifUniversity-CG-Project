@@ -86,7 +86,7 @@ This project recreates the main street scene of Taif University using 2D graphic
 TaifUniversity-CG-Project/
 │
 ├── taif_university.cpp          ← Full combined scene
-├── student1_sky_interaction.cpp ← Lamila
+├── student1_sky_interaction.cpp 
 ├── student2_building_body.cpp
 ├── student3_windows.cpp
 ├── student4_door_columns.cpp
@@ -103,8 +103,7 @@ TaifUniversity-CG-Project/
 
 - **Course:** Computer Graphics
 - **University:** Taif University
-- **Deadline:** 3 May 2026
-- **Project Weight:** 25%
+
 
 ---
 
