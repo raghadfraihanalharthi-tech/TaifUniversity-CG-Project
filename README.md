@@ -11,7 +11,7 @@ This project recreates the main street scene of Taif University using 2D graphic
 
 ## Landmark
 
-**Location:** Main Street — Taif University Campus  
+**Location:** bluiding n4 Taif University Campus  
 **Style:** Creative (simplified and stylized)
 
 ---
@@ -56,21 +56,6 @@ This project recreates the main street scene of Taif University using 2D graphic
 
 ---
 
-## Team Members & Individual Contributions
-
-| # | Name | Object | File |
-|---|------|--------|------|
-| 1 | RAGHAD ALBLAHDI | Sky + Interaction System | `student1_sky_interaction.cpp` |
-| 2 | Student 2 | Main Building Body & Roof | `student2_building_body.cpp` |
-| 3 | Student 3 | Windows (3×2 grid) | `student3_windows.cpp` |
-| 4 | Student 4 | Door, Columns & Steps | `student4_door_columns.cpp` |
-| 5 | Student 5 | Street Lights | `student5_streetlight.cpp` |
-| 6 | Student 6 | Trees & Plant Pots | `student6_trees_pots.cpp` |
-| 7 | Student 7 | Ground, Road & Kerb | `student7_ground.cpp` |
-| 8 | Student 8 | Cat | `student8_cat.cpp` |
-
----
-
 ## Technologies Used
 
 - Language: **C++**
@@ -78,24 +63,6 @@ This project recreates the main street scene of Taif University using 2D graphic
 - IDE: **Visual Studio**
 - Primitives used: `GL_QUADS`, `GL_TRIANGLES`, `GL_TRIANGLE_FAN`, `GL_QUAD_STRIP`
 
----
-
-## Project Structure
-
-```
-TaifUniversity-CG-Project/
-│
-├── taif_university.cpp          ← Full combined scene
-├── student1_sky_interaction.cpp 
-├── student2_building_body.cpp
-├── student3_windows.cpp
-├── student4_door_columns.cpp
-├── student5_streetlight.cpp
-├── student6_trees_pots.cpp
-├── student7_ground.cpp
-├── student8_cat.cpp
-└── README.md
-```
 
 ---
 
